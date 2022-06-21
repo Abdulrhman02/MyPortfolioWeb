@@ -2,7 +2,7 @@
   <div class="box">
     <span />
     <div class="content">
-      <h3>Abdulrhman Ali Algmadi</h3>
+      <h3>Abdulrhman Ali Alghamdi</h3>
     </div>
   </div>
 </div>
