@@ -2,7 +2,7 @@
   <div class="box">
     <span />
     <div class="content">
-      <h3>Abdulrhman Ali Alghamdi</h3>
+      <h3>Abdulrhman Ali Al-Ghamdi</h3>
     </div>
   </div>
 </div>
@@ -219,7 +219,7 @@
   .container .box .content {
     position: relative;
     left: 0;
-    padding: 2vw 3.5vw;
+    padding: 1vw 2.5vw;
     background: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(10px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
