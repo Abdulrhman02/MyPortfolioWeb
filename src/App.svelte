@@ -9,18 +9,18 @@
 
 <div class="content2">
   <div class="content__container">
-    <p class="content__container__text">I'm a</p>
+    <p class="content__container__text">Coming Soon</p>
 
-    <ul class="content__container__list">
+    <!-- <ul class="content__container__list">
       <li class="content__container__list__item">FrontEnd Developer</li>
       <li class="content__container__list__item">Mobile Developer</li>
       <li class="content__container__list__item">Software Engineer</li>
       <li class="content__container__list__item">FullStack Developer</li>
-    </ul>
+    </ul> -->
   </div>
 </div>
 
-<h4>Technical Skills</h4>
+<!-- <h4>Technical Skills</h4>
 <div class=" test">
   <h1>Web framework</h1>
 
@@ -55,7 +55,7 @@
   <h1>Other</h1>
 
   <span class="content v2"><p>Wordepress</p></span>
-</div>
+</div> -->
 
 <style>
   * {
