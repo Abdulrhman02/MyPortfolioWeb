@@ -12,50 +12,50 @@
     <p class="content__container__text">Coming Soon</p>
 
     <!-- <ul class="content__container__list">
-      <li class="content__container__list__item">FrontEnd Developer</li>
-      <li class="content__container__list__item">Mobile Developer</li>
-      <li class="content__container__list__item">Software Engineer</li>
-      <li class="content__container__list__item">FullStack Developer</li>
-    </ul> -->
+		<li class="content__container__list__item">FrontEnd Developer</li>
+		<li class="content__container__list__item">Mobile Developer</li>
+		<li class="content__container__list__item">Software Engineer</li>
+		<li class="content__container__list__item">FullStack Developer</li>
+	  </ul> -->
   </div>
 </div>
 
 <!-- <h4>Technical Skills</h4>
-<div class=" test">
-  <h1>Web framework</h1>
-
-  <span class="content v2"><p>Svelte</p></span>
-  <span class="content v2"><p>Vue.js</p></span>
-  <span class="content v2"><p>Vanilla</p></span>
-</div>
-<div class=" test">
-  <h1>Mobile framework</h1>
-
-  <span class="content v2"><p>Flutter</p></span>
-  <span class="content v2"><p>Android</p></span>
-</div>
-<div class=" test">
-  <h1>Programming languages</h1>
-
-  <span class="content v2"><p>Dart</p></span>
-  <span class="content v2"><p>Java</p></span>
-  <span class="content v2"><p>C++</p></span>
-  <span class="content v2"><p>HTML</p></span>
-  <span class="content v2"><p>CSS</p></span>
-  <span class="content v2"><p>JavaScript</p></span>
-</div>
-<div class=" test">
-  <h1>Back End framework</h1>
-
-  <span class="content v2"><p>FireBase</p></span>
-  <span class="content v2"><p>SQL</p></span>
-  <span class="content v2"><p>REST API</p></span>
-</div>
-<div class=" test">
-  <h1>Other</h1>
-
-  <span class="content v2"><p>Wordepress</p></span>
-</div> -->
+  <div class=" test">
+	<h1>Web framework</h1>
+  
+	<span class="content v2"><p>Svelte</p></span>
+	<span class="content v2"><p>Vue.js</p></span>
+	<span class="content v2"><p>Vanilla</p></span>
+  </div>
+  <div class=" test">
+	<h1>Mobile framework</h1>
+  
+	<span class="content v2"><p>Flutter</p></span>
+	<span class="content v2"><p>Android</p></span>
+  </div>
+  <div class=" test">
+	<h1>Programming languages</h1>
+  
+	<span class="content v2"><p>Dart</p></span>
+	<span class="content v2"><p>Java</p></span>
+	<span class="content v2"><p>C++</p></span>
+	<span class="content v2"><p>HTML</p></span>
+	<span class="content v2"><p>CSS</p></span>
+	<span class="content v2"><p>JavaScript</p></span>
+  </div>
+  <div class=" test">
+	<h1>Back End framework</h1>
+  
+	<span class="content v2"><p>FireBase</p></span>
+	<span class="content v2"><p>SQL</p></span>
+	<span class="content v2"><p>REST API</p></span>
+  </div>
+  <div class=" test">
+	<h1>Other</h1>
+  
+	<span class="content v2"><p>Wordepress</p></span>
+  </div> -->
 
 <style>
   * {
@@ -74,13 +74,13 @@
     margin-left: 10%;
   }
 
-  :global(body) {
-    /* display: flex;
-		justify-content: center;
-		align-items: center; */
-    min-height: 100vh;
-    background: #060d1d;
-  }
+  /* :global(body) {
+	   display: flex;
+		  justify-content: center;
+		  align-items: center; 
+	  min-height: 100vh;
+	  background: #060d1d;
+	} */
 
   .container {
     display: flex;
@@ -219,7 +219,7 @@
   .container .box .content {
     position: relative;
     left: 0;
-    padding: 1vw 2.5vw;
+    padding: 2vw 3.5vw;
     background: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(10px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -242,22 +242,22 @@
   }
 
   /* .container .box .content a {
-		display: inline-block;
-		font-size: 1.1em;
-		color: #111;
-		background: #fff;
-		padding: 10px;
-		border-radius: 4px;
-		text-decoration: none;
-		font-weight: 700;
-		margin-top: 5px;
-	} */
+		  display: inline-block;
+		  font-size: 1.1em;
+		  color: #111;
+		  background: #fff;
+		  padding: 10px;
+		  border-radius: 4px;
+		  text-decoration: none;
+		  font-weight: 700;
+		  margin-top: 5px;
+	  } */
 
   /* .container .box .content a:hover {
-		background: #ffcf4d;
-		border: 1px solid rgba(255, 0, 88, 0.4);
-		box-shadow: 0 1px 15px rgba(1, 1, 1, 0.2);
-	} */
+		  background: #ffcf4d;
+		  border: 1px solid rgba(255, 0, 88, 0.4);
+		  box-shadow: 0 1px 15px rgba(1, 1, 1, 0.2);
+	  } */
 
   .content p {
     font-size: 2em;
@@ -293,7 +293,7 @@
     /* font-family: 'Lato', sans-serif; */
     font-size: 3vw;
     /* line-height: 4vw; */
-    color: #ffffff;
+    /* color: #ffffff; */
   }
   .content__container {
     font-weight: 600;
